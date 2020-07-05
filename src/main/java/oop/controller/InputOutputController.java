@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 public abstract class InputOutputController {
     // globalna ścieżka bezpośrednia do pliku
-    private String usersFilePath = "C:\\Users\\PROXIMO\\Desktop\\TARR5\\tarr5_java_adv\\src\\main\\resources\\file\\users.csv";
+    private String usersFilePath = "C:\\Users\\gonra\\Documents\\kurs_java\\tarr5java_adv\\src\\main\\resources\\file\\users.csv";
 
     public void saveUsersToFile(){
         try {

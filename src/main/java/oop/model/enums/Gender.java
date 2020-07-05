@@ -10,4 +10,5 @@ public enum Gender {
     Gender(String genderName) {             // konstruktor typu wyliczeniowego
         this.genderName = genderName;
     }
+
 }

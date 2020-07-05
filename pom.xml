@@ -5,12 +5,21 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>groupId</groupId>
+<<<<<<< HEAD
     <artifactId>tarr5java_adv</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
         <maven.compiler.source>1.11</maven.compiler.source>
         <maven.compiler.target>1.11</maven.compiler.target>
+=======
+    <artifactId>tarr5_java_adv</artifactId>
+    <version>1.0-SNAPSHOT</version>
+
+    <properties>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
+>>>>>>> 0f4d0f9197c0b000dbab5f2436485b55ff9d6852
     </properties>
     
 </project>
